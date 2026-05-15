@@ -2,7 +2,7 @@
  <p align="center">
   <img src="https://i.pinimg.com/1200x/a6/d9/9f/a6d99f6648e2bdbf58f1873caefb50b1.jpg" alt="Banner" width="100%" />
 </p>
----
+
 # 👋   Welcome to my GitHub Profile 
 
 ###
