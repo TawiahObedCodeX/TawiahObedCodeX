@@ -95,3 +95,7 @@ My goal is not only to write code, but to engineer reliable digital experiences 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </p>
+
+
+
+![snake gif](https://github.com/TawiahObedCodeX/TawiahObedCodeX/blob/output/github-contribution-grid-snake.gif)
