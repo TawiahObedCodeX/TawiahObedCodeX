@@ -90,8 +90,8 @@ My goal is not only to write code, but to engineer reliable digital experiences 
 
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🎮 Pacman Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TawiahObedCodeX/TawiahObedCodeX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </p>
