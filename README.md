@@ -1,3 +1,8 @@
+
+ <p align="center">
+  <img src="https://i.pinimg.com/1200x/96/d1/cc/96d1cc416bfc7a2a0a16feb235f1defa.jpg" alt="Banner" width="100%" />
+</p>
+---
 # 👋   Welcome to my GitHub Profile 
 
 ###
