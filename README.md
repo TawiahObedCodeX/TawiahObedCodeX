@@ -89,3 +89,9 @@ My goal is not only to write code, but to engineer reliable digital experiences 
   <img src="https://img.shields.io/badge/Replit_AI-F26207?style=for-the-badge&logo=replit&logoColor=white" />
 
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TawiahObedCodeX/TawiahObedCodeX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
