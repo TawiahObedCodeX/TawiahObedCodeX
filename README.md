@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://i.pinimg.com/1200x/d7/23/2d/d7232d86a64ec4aa0d74ba3077702dde.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/68/e0/48/68e0483eb5273624d74554dfc62457c4.jpg" alt="Banner" width="100%" />
 </p>
 
 # 👋   Welcome to my GitHub Profile 
