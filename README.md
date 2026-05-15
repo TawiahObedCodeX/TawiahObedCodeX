@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub Profile
+# 👋  ** Welcome to my GitHub Profile **
 
 ###
 Experienced Full-Stack Developer with a strong foundation in designing and developing scalable web applications, backend services, and modern user-centric platforms. Adept at translating complex business requirements into maintainable, production-ready solutions using modern JavaScript frameworks, backend technologies, and cloud-based deployment workflows.
