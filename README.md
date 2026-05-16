@@ -102,3 +102,90 @@ My goal is not only to write code, but to engineer reliable digital experiences 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawiahObedCodeX&theme=tokyonight&hide_border=true" />
 </p>
 
+
+<!-- ========================= CONTACT SECTION ========================= -->
+<h2 align="center">╭━━━ ✦ Connect With Me ✦ ━━━╮</h2>
+
+<div align="center">
+
+<a href="mailto:tawiaho858@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="65" alt="gmail logo" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/tawiah-obed-73941a3ab/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="65" alt="linkedin logo" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://wa.me/233539526814" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="65" alt="whatsapp logo" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://facebook.com/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="65" alt="facebook logo" />
+</a>
+
+</div>
+
+<!-- ANIMATED TEXT -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Open+To+Collaborations;Full-Stack+Developer;Blockchain+Developer;AI+%26+Modern+Web+Solutions;Let's+Build+Something+Amazing+🚀" />
+
+</div>
+
+<!-- GLASS CARD -->
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="250">
+
+### 📧 Email
+<a href="mailto:tawiaho858@gmail.com">
+<strong>tawiaho858@gmail.com</strong>
+</a>
+
+</td>
+
+<td align="center" width="250">
+
+### 📱 Phone
+<strong>+233 53 952 6814</strong>
+
+</td>
+
+<td align="center" width="250">
+
+### 💬 WhatsApp
+<a href="https://wa.me/233539526814">
+<strong>Chat Instantly</strong>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- 3D ANIMATED BADGES -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/AVAILABLE_FOR_WORK-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE_LOVER-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/BUILDING_THE_FUTURE-FF00FF?style=for-the-badge&logo=rocket&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ANIMATED DIVIDER -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:8A2BE2,100:FF00FF"/>
+
+</div>
