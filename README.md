@@ -90,11 +90,22 @@ My goal is not only to write code, but to engineer reliable digital experiences 
 
 </p>
 
-<h2 align="center">🎮 Pacman Contribution Graph</h2>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TawiahObedCodeX/TawiahObedCodeX/output/github-snake.svg" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TawiahObedCodeX/TawiahObedCodeX/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TawiahObedCodeX/TawiahObedCodeX/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/TawiahObedCodeX/TawiahObedCodeX/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <h2 align="center">🔥 Coding Streak</h2>
 
