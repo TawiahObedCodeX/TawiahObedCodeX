@@ -15,15 +15,15 @@ jobs:
 
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@0d1a8a4e8f2cb0f4d2f6df9c6e8d0f4f6a2c9e7d
         with:
           github_user_name: TawiahObedCodeX
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake animation
+        uses: crazy-max/ghaction-github-pages@cbf5cbfd7d41713f7a3f5080e7a54985a7b4c3c2
         with:
           target_branch: output
           build_dir: dist
