@@ -10,22 +10,21 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@0d1a8a4e8f2cb0f4d2f6df9c6e8d0f4f6a2c9e7d
+      - name: Generate Snake
+        uses: Platane/snk@c2a3946f0d6f0b2f281caf9d7b0c9dbeb2b7b3f3
         with:
           github_user_name: TawiahObedCodeX
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@cbf5cbfd7d41713f7a3f5080e7a54985a7b4c3c2
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@373f7f263a76d7c4a9c6f2a7b8b63e2d6f2e3f7d
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
