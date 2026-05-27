@@ -54,7 +54,7 @@ My goal is not only to write code, but to engineer reliable digital experiences 
 
   <!-- Blockchain -->
   <img src="https://skillicons.dev/icons?i=solidity" height="55" alt="Solidity" />
-  <img src="https://skillicons.dev/icons?i=ethereum" height="55" alt="Ethereum" />
+  <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" height="55" alt="Ethereum" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />
